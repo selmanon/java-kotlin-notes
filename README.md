@@ -1,4 +1,4 @@
-# java-kotlin-notes
+# java-notes
 
 Mutability & Immutability
 
